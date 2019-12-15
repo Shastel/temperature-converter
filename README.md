@@ -1,4 +1,4 @@
-# TASK NAME
+# Temperature converter
 
 ## Task
 The task is to implement two functions first should convert Celcius degrees to Fahrenheit, second should do the opposite.
